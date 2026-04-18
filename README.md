@@ -1,1 +1,1 @@
-# Course-Schedule-Planning-Assistant
+# Course Schedule Planning Assistant
