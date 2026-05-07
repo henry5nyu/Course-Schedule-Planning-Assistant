@@ -14,7 +14,7 @@ The Course Schedule Planning Assistant is an API-driven Python tool designed to 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/henry5nyu/Course-Schedule-Planning-Assistant.git
    cd Course-Schedule-Planning-Assistant
    ```
 
@@ -32,7 +32,7 @@ The Course Schedule Planning Assistant is an API-driven Python tool designed to 
 ## Usage
 Run the program from the root directory via the command line:
 ```bash
-python main.py
+python3 main.py
 ```
 Follow the interactive prompts in the terminal to browse courses, set preferences, and generate your schedule.
 
